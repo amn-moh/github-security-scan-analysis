@@ -1,5 +1,3 @@
-# PR1 Security Project 
+# GitHub Security Scan Analysis
 
-Practical Work N0. 1.
-The project is uploaded to Github using Git and bash.
-The project code is analyzed using security tools.
+A practical security analysis project focused on Git/GitHub workflow, GitHub IP range discovery, network scanning, and security assessment using Nmap, Masscan, and Nikto.
